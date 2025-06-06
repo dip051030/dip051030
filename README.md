@@ -10,7 +10,7 @@ I'm a **Machine Learning enthusiast** with a growing passion for **mathematics**
 - 📊 Data Analysis & Exploratory Data Science (EDA)
 - 🧮 Math for Machine Learning
 - 🗣️ Natural Language Processing (NLP)
-- 📈 Model Deployment
+- 📈 ML Ops & Model Deployment
 
 ---
 
@@ -44,13 +44,14 @@ I'm a **Machine Learning enthusiast** with a growing passion for **mathematics**
 
 - 🧠 Advanced Machine Learning algorithms
 - 🧾 Statistical Modeling for real-world cases
+- 🛠️ TensorFlow + PyTorch pipelines
 - 📚 LLMs, Transformers, and LangChain
 
 ---
 
 ## 💬 Let's Connect
 
-- 📧 Email: dip.2062.07.13@gmail.com  
+- 📧 Email: your.email@example.com  
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/dip-darpan-kandel)  
 - 🧠 Portfolio (coming soon!)
 
