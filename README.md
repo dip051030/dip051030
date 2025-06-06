@@ -10,7 +10,7 @@ I'm a **Machine Learning enthusiast** with a growing passion for **mathematics**
 - 📊 Data Analysis & Exploratory Data Science (EDA)
 - 🧮 Math for Machine Learning
 - 🗣️ Natural Language Processing (NLP)
-- 📈 ML Ops & Model Deployment
+- 📈 Model Deployment
 
 ---
 
@@ -44,7 +44,6 @@ I'm a **Machine Learning enthusiast** with a growing passion for **mathematics**
 
 - 🧠 Advanced Machine Learning algorithms
 - 🧾 Statistical Modeling for real-world cases
-- 🛠️ TensorFlow + PyTorch pipelines
 - 📚 LLMs, Transformers, and LangChain
 
 ---
