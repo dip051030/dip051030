@@ -51,7 +51,7 @@ I'm a **Machine Learning enthusiast** with a growing passion for **mathematics**
 ## 💬 Let's Connect
 
 - 📧 Email: dip.2062.07.13@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/dip-darpan-kandel/)  
+- 💼 LinkedIn: [linkedin.com/in/Dip Darpan Kandel](https://www.linkedin.com/in/dip-darpan-kandel/)  
 - 🧠 Portfolio (coming soon!)
 
 ---
