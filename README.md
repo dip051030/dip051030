@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Dyane Master!!
+# 👋 Hey there! I'm Dip!!
 
 I'm a **Machine Learning enthusiast** with a growing passion for **mathematics** and **data science**. I enjoy exploring real-world problems, building data-driven solutions, and constantly leveling up my skills in AI and ML.
 
