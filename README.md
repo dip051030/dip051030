@@ -70,9 +70,8 @@ Comprehensive analysis of Australian early childhood education using data scienc
 ## 🏆 Achievements & Learning
 
 - 📚 **Academic Focus:** Computer Science with AI specialization
-- 🌏 **Location:** Australia  
+- 🌏 **Location:** Nepal
 - 🔬 **Research Interests:** Document Classification, Multimodal AI, Educational Technology
-- 📝 **Publications:** Working on research in deep learning applications
 
 ## 💬 Let's Connect & Collaborate
 
