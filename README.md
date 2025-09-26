@@ -63,9 +63,7 @@ Comprehensive analysis of Australian early childhood education using data scienc
 
 ## 🌱 Currently Exploring
 
-- 🧠 **Advanced Deep Learning** - Transformer architectures and attention mechanisms
 - 📚 **Large Language Models** - LangChain, RAG systems, and prompt engineering  
-- 🏗️ **MLOps** - Model deployment, monitoring, and production systems
 - 📈 **Statistical Learning** - Bayesian methods and advanced statistical modeling
 - 🔍 **Research** - Contributing to academic papers and open-source projects
 
