@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dip Kandel!
 
-**Machine Learning Engineer | AI Enthusiast | Data Science Explorer**
+**Machine Learning Enthusiast & Learner | AI Enthusiast | Data Science Explorer**
 
 I'm a passionate CS student specializing in AI/ML, turning complex data into meaningful insights and building intelligent systems that solve real-world problems. Currently diving deep into advanced ML algorithms and exploring the fascinating world of LLMs and transformers.
 
